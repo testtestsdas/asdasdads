@@ -5,3 +5,6 @@ console.log("ola")
 function main() (
 return null;
 )
+
+main()
+// console.log(main)
